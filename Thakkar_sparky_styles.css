@@ -1,0 +1,112 @@
+universal Selector{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #ccc;
+    color: #222;
+}
+
+main{
+    background-color: #fff;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+links in main{
+    background-color: #8c1d40;
+}
+
+paragraphs and quote{
+    color: #444;
+}
+
+quote{
+    display: italic;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+nav{
+    background-color: #ffc627;
+}
+
+unordered list{
+    padding-left: 0;
+}
+
+list nav{
+    list-style: none;
+}
+
+links nav{
+    display: block;
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+    margin-right: 16px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header, footer, div{
+    width: 1000px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer hover with a mouse{
+    color: #ffc627 
+}
+
+h2 footer{
+    font-size: 24px;
+}
+
+address{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+header, footer{
+    background-color: #8c1d40;
+    color: #fff;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+footer{
+    color: #fff;
+    display: inline-block;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: normal;
+}
